@@ -1,0 +1,5 @@
+E:\เขียนโค้ด\code+\obj\Debug\net7.0\code+.csproj.AssemblyReference.cache
+E:\เขียนโค้ด\code+\obj\Debug\net7.0\code+.GeneratedMSBuildEditorConfig.editorconfig
+E:\เขียนโค้ด\code+\obj\Debug\net7.0\code+.AssemblyInfoInputs.cache
+E:\เขียนโค้ด\code+\obj\Debug\net7.0\code+.AssemblyInfo.cs
+E:\เขียนโค้ด\code+\obj\Debug\net7.0\code+.csproj.CoreCompileInputs.cache
